@@ -1,3 +1,4 @@
-Function  happyHolidays("happyHolidays") {
+Function  happyHolidays("happyHolidays") {}
+
   consolo.log(happyHolidays) }
 
