@@ -1,4 +1,4 @@
 Function happyHolidays("happy holidays") {}
 Function happyHolidays(){ 
-  consolo.log(happyHolidays) }
+  console.log(happyHolidays) }
 
